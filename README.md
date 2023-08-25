@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Valentina</h1>
-<h3 align="center">I'm full-stack developer and WordPress developer. I love design!.</h3>
+<h3 align="center">I'm Full-stack developer and WordPress developer. I'm from Argentina🧉!</h3>
 
 - 📫 How to reach me **valehadad@gmail.com**
 
